@@ -1,0 +1,12 @@
+Réalisation d'un site web en touchant que la partie Front en HTML et CSS. Refonte du premier site web en mettant un back office. Donc le site est maintenant en PHP, JS et MySQL. 
+Réalisation d'un portfolio en HTML, CSS et JS. Réalisation d'une map interactive avec l'API de Google Map en JS.
+
+HTML / CSS / JavaScript
+
+Python / PHP
+
+Unity / Figma / Visual Studio Code
+
+Je n'ai pas que des compétences en informatique. En effet, j'ai un BAC Pro Logistique dans lequel j'ai développer des compétences tels que: préparation de commandes, réception de commandes, contrôle qualitatif et quantitatif, j'ai aussi obtenu un CACES catégorie 1/3/5.
+
+Je m'appelle Yanis CHATELET, j'ai 20 ans et je suis actuellement étudiant en deuxième année de Bachelor Universitaire de Technologie Métiers du Multimédia et de l'Internet à l'IUT de Cergy-Pontoise sur le site de Sarcelles (34 Bd Henri Bergson). Je suis diplômé du BAC Pro Logistique avec mention "assez bien" en 2021, pendant lequel j'ai réalisé 24 semaines stage dans le domaine de la Logistique. Grace a ces stages j'ai pu avoir une vraie vision du monde du travail et ces stages m'ont permis d'avoir beaucoup d'expériences mais aussi d'obtenir un CDD à temps partiel de 3 mois. Cependant, j'ai toujours préféré le domaine de l'informatique, plus précisément, la programmation, c'est pourquoi je me dirige vers le BUT MMI. J'ai appris le codage à 16 ans en autodidacte, et je suis tombé amoureux de la programmation.
