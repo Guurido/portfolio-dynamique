@@ -37,7 +37,7 @@ try{
 						<?php echo $rows['texte']?>
 					</p>
 					<ul class="actions">
-						<li><a href="medias/CHATELET-Yanis.pdf" class="button">Télécharger mon CV</a></li>
+						<li><a href="assets/medias/CHATELET-Yanis.pdf" class="button">Télécharger mon CV</a></li>
 					</ul>
 				</div>
 			</div>
